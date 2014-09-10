@@ -16,7 +16,8 @@ Here is an example:
 LG04,LG,lab
 UG04,UG,lab
 130c,1,
-217,2,tutorials```
+217,2,tutorials
+```
 
 ## Ex5 - Input/Output
 This exercise is about writing a recursive search tool to find text strings in multiple files.
