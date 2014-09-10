@@ -4,9 +4,13 @@ Solutions to exercises posed as part of the java workshop during the first year 
 
 ## Ex8 - Falling blocks puzzle game
 This exercise was to create a "falling block game" using swing, my implementation mimicked the classic game 'Tetris'. The game has randomized block generation, score multipliers, score & line count, a preview pane of the next block to arrive, pause option and scaling difficulty (over time).
+![alt text](https://raw.githubusercontent.com/Mattie432/Java-First-Year-Workshop/master/images/ex8.png?token=3811007__eyJzY29wZSI6IlJhd0Jsb2I6TWF0dGllNDMyL0phdmEtRmlyc3QtWWVhci1Xb3Jrc2hvcC9tYXN0ZXIvaW1hZ2VzL2V4OC5wbmciLCJleHBpcmVzIjoxNDEwOTE3NzYxfQ%3D%3D--085983715df0a1df629cd4b1628f0f09c10f45da "Tetris game image")
+
 
 ## Ex7 - Graphics
 This exersise was to create a graphics program (like MS Paint) that could draw lines, rectangles and squares. Additional features include changing the colour of the lines, an undo feature and the ability to export drawings to JPG files.
+![alt text](https://raw.githubusercontent.com/Mattie432/Java-First-Year-Workshop/master/images/ex7.png?token=3811007__eyJzY29wZSI6IlJhd0Jsb2I6TWF0dGllNDMyL0phdmEtRmlyc3QtWWVhci1Xb3Jrc2hvcC9tYXN0ZXIvaW1hZ2VzL2V4Ny5wbmciLCJleHBpcmVzIjoxNDEwOTE3ODA5fQ%3D%3D--dd45bcb6dc8f704e4576aa315112379f831b8269 "Drawing  program image")
+
 
 ## Ex6 - Containers
 This exercise is about writing a program to merge together data files. The format used for the input and output consists of a row of column headings separated by commas, followed by any number of data lines that are also separated by commas, and using an empty string to represent a situation where there is no data available.
