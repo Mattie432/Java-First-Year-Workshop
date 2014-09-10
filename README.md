@@ -63,7 +63,6 @@ This exercise is about writing a recursive search tool to find text strings in m
 
 1. Input an integer from the input frame and assign it to an int variable called inches. This integer represents a measurement in inches.
 2. Convert this number of inches into a format that calculates the number of miles, furlongs, chains, yards, feet, and leftover inches involved:
-3. 
 ```
 There are 12 inches in 1 foot.
 There are 3 feet in 1 yard.
