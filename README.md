@@ -63,6 +63,7 @@ This exercise is about writing a recursive search tool to find text strings in m
 
 1. Input an integer from the input frame and assign it to an int variable called inches. This integer represents a measurement in inches.
 2. Convert this number of inches into a format that calculates the number of miles, furlongs, chains, yards, feet, and leftover inches involved:
+3. 
 ```
 There are 12 inches in 1 foot.
 There are 3 feet in 1 yard.
@@ -70,6 +71,8 @@ There are 22 yards in 1 chain.
 There are 10 chains in 1 furlong.
 There are 8 furlongs in 1 mile.
 ```
+
 3. Write a message to System.out that shows the total number of inches, and then the equivalent in imperial units.
-Use a format like this example: "72121 inches = 1 mile, 1 furlong, 1 chain, 1 yard, 1 foot, 1 inch."
+Use a format like this example:
+```"72121 inches = 1 mile, 1 furlong, 1 chain, 1 yard, 1 foot, 1 inch."```
 Your output needs to vary according to the numbers involved: if one of the components would be 0, say "0 furlongs", just leave it out altogether. Likewise, if one of the components would be more than 1, say "5 yards", you need to use the plural rather than the singular (5 yard) is incorrect.
